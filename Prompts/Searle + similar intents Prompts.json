@@ -1,0 +1,611 @@
+{
+    "descriptions": [
+        [
+			"Generate 50 examples for the 'translate' intent using imperative or interrogative syntax. Ask for the translation of a word or phrase from one language to another, mentioning random words, phrases and languages. Avoid mentions of definitions, spelling, and language change. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "translate"
+        ],
+		[
+            "Generate 50 examples for the 'transfer' intent using imperative or interrogative syntax. Ask for assistance with money transfer, or request directly the transfer of a specific amount of money from one account to another. Avoid mentions of insurance change, remaining available funds, and pto request. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "transfer"
+        ],
+		[
+            "Generate 50 examples for the 'timer' intent using imperative or interrogative syntax. Request the set up of a timer for a specific amount of time. Avoid mentions of updating a reminder, finding a lost phone, and the amount of a bill. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "timer"
+        ],
+		[
+            "Generate 50 examples for the 'definition' intent using imperative or interrogative syntax. Request the definition or meaning of a specific word or phrase. Avoid mentions of spelling, meaning of life, and changing your name. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "definition"
+        ],
+		[
+            "Generate 50 examples for the 'meaning_of_life' intent using imperative or interrogative syntax. Ask for the meaning, point, or reason of life. Avoid mentions of finding a lost phone, amount of a bill, and who interlocutor works for. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "meaning_of_life"
+        ],
+		[
+            "Generate 50 examples for the 'insurance_change' intent using imperative or interrogative syntax. Request the start of a new insurance plan, or request a change in your current one. Avoid mentions of what is your current insurance, tire change, language change, accent change, volume change, your or system's name change, pin change, interlocutor's speech pace change, credit limit change, the amount of a bill, pto request status, and how and when to change car oil. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "insurance_change"
+        ],
+		[
+            "Generate 50 examples for the 'find_phone' intent using imperative or interrogative syntax. Ask for the location of a lost phone. Avoid mentions of updating a reminder, phone calls, and amount of a bill. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "find_phone"
+        ],
+		[
+            "Generate 50 examples for the 'travel_alert' intent using imperative or interrogative syntax. Ask about travel alerts for certain countries or continents or about the safety of traveling to them. Avoid mentions of travel suggestions, carry-on-restrictions, pto requests, pets, and notifying about your travel. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "travel_alert"
+        ],
+		[
+            "Generate 50 examples for the 'pto_request' intent using imperative or interrogative syntax. Request paid time off for specific dates or information about the way of making a vacation request. Avoid mentions of remaining vacation days, used vacation days, the status of a pto request, and finding a lost phone. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "pto_request"
+        ],
+        [
+            "Generate 50 examples for the 'improve_credit_score' intent using imperative or interrogative syntax. Ask for the ways of improving your credit score, or what may harm it. Avoid mentions of what is your current credit score, credit limit change, lost luggage, and declined cards. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "improve_credit_score"
+        ],
+		[
+            "Generate 50 examples for the 'fun_fact' intent using imperative or interrogative syntax. Ask for a fun fact, or request trivia about a specific topic. Avoid mentions of phone calls, telling a joke, and restaurant suggestions. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "fun_fact"
+        ],
+		[
+            "Generate 50 examples for the 'change_language' intent using imperative or interrogative syntax. Request a change in the language of communication or a switch to a specific language. Avoid mentions of pin change, volume change, accent change, interlocutor's speech pace change, insurance change, credit limit change, tire change, when or how to change car oil, phone calls, your or system's name change, and canceling a reservation. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "change_language"
+        ],
+		[
+            "Generate 50 examples for the 'payday' intent using imperative or interrogative syntax. Ask when is your next paycheck, or when was your last one. Avoid mentions of order's status, next holiday, and international fees. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "payday"
+        ],
+		[
+            "Generate 50 examples for the 'replacement_card_duration' intent using imperative or interrogative syntax. Request information about the duration of a card replacement or the acquiring of a new one, including the case of a stolen card. Avoid mentions of insurance change, finding a lost phone, card's credit limit, and lost or new or declined or damaged cards. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "replacement_card_duration"
+        ],
+		[
+            "Generate 50 examples for the 'time' intent using imperative or interrogative syntax. Request the time in a specific place or timezone, or the time without defining a specific place. Avoid mentions of cooking time, what the timezone is in a specific place, restaurant wait time, and scheduling a meeting. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "time"
+        ],
+		[
+            "Generate 50 examples for the 'application_status' intent using imperative or interrogative syntax. Request the status of any kind of application. Avoid mentions of flight status, order status, pto request status, frozen accounts, updating a reminder, and the amount of a bill. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "application_status"
+        ],
+		[
+            "Generate 50 examples for the 'flight_status' intent using imperative or interrogative syntax. Ask for the status of a specific flight or just your flight. Avoid mentions of flight bookings, finding a lost phone, and order's or pto request's or application's status. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "flight_status"
+        ],
+		[
+            "Generate 50 examples for the 'flip_coin' intent using imperative or interrogative syntax. Request the flip of a coin, including your choice between head or tails. Avoid mentions of pin change, finding lost phone, and meaning of life. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "flip_coin"
+        ],
+		[
+            "Generate 50 examples for the 'change_user_name' intent using imperative or interrogative syntax. Request to be called by a specific name. Avoid mentions of system's name change, tire change, credit limit change, interlocutor's speech pace change, accent change, volume change, language change, pin change, insurance change, when and how to change car oil, bill deadline, phone calls, restaurant suggestions, and asking what is your own or you interlocutor's name. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "change_user_name"
+        ],
+		[
+            "Generate 50 examples for the 'where_are_you_from' intent using imperative or interrogative syntax. Request someone's or something's origin. Avoid mentions of expressing gratitude, whether your interlocutor is a bot, what they can answer, how old they are, what is their name, who made them, who they work for, pets, and hobbies. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "where_are_you_from"
+        ],
+		[
+            "Generate 50 examples for the 'shopping_list_update' intent using imperative or interrogative syntax. Request the addition or the removal of items from a shopping list, or request information about the presence of a specific item in the shopping list. Avoid mentions of ingredients list, what already exists in your shopping list, last car maintenace, updating a todo list or calendar or reminder or playlist. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "shopping_list_update"
+        ],
+		[
+            "Generate 50 examples for the 'what_can_i_ask_you' intent using imperative or interrogative syntax. Ask about the questions the bot can answer, the knowledge it has or what it can help with. Avoid mentions of hobbies, whether the interlocutor is bot, what their name is, where they are from, how old they are, who they work for, who created the system, pets, expressing gratitude, what song is playing, and what is your own name. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "what_can_i_ask_you"
+        ],
+		[
+            "Generate 50 examples for the 'maybe' intent using imperative or interrogative syntax. State your inability to make a decision, as an answer to a previous question. Avoid mentions of who created the system, insurance change, and interlocutor's speech pace change. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "maybe"
+        ],
+		[
+            "Generate 50 examples for the 'oil_change_how' intent using imperative or interrogative syntax. Request the way of changing the oil of a car, without mentioning any part of the procedure. Avoid mentions of when to change car oil, pin change, language change, volume change, accent change, interlocutor's speech pace change, insurance change, tire change, credit limit change, your or system's name change, restaurant wait time, amount of a bill, car's last maintenace, and how old the interlocutor is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "oil_change_how"
+        ],
+		[
+            "Generate 50 examples for the 'restaurant_reservation' intent using imperative or interrogative syntax. Request a reservation by mentioning the restaurant, the number of persons, the date, and the time. Avoid mentions of restaurant suggestions, confirming a reservation, canceling a reservation, restaurant reviews, last car maintenace, finding a lost phone, and scheduling a meeting. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "restaurant_reservation"
+        ],
+		[
+            "Generate 50 examples for the 'balance' intent using imperative or interrogative syntax. Request information about the remaining funds available in your account. Avoid mentions of the amount of a bill, rewards points of a card or account, money spending history, the amount of interest rate, and remaining vacation days. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "balance"
+        ],
+		[
+            "Generate 50 examples for the 'confirm_reservation' intent using imperative or interrogative syntax. Request to check or confirm a reservation, optionally mentioning specific dates, times, persons and places. Avoid mentions of restaurant reservation, canceling a reservation, car rental, flight booking, and whether a restaurant accepts reservations. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "confirm_reservation"
+        ],
+		[
+            "Generate 50 examples for the 'freeze_account' intent using imperative or interrogative syntax. Request the block of an account. Avoid mentions of blocked accounts, amount of a bill, updating a reminder, and application's status. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "freeze_account"
+        ],
+		[
+            "Generate 50 examples for the 'rollover_401k' intent using imperative or interrogative syntax. Request the transfer or rollover of a 401k. Avoid mentions of frozen accounts, application status, and updating a reminder. Use very small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "rollover_401k"
+        ],
+		[
+            "Generate 50 examples for the 'who_made_you' intent using imperative or interrogative syntax. Request to know who made or created the system. Avoid mentions of whether your interlocutor is a robot, how old they are, what they can answer, where they are from, who they work for, what their name is, expressing gratitude, pets, and tire change. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "who_made_you"
+        ],
+		[
+            "Generate 50 examples for the 'distance' intent using imperative or interrogative syntax. Request the distance or travel time to a specific location. Avoid mentions of directions, current location, and finding a lost phone. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "distance"
+        ],
+		[
+            "Generate 50 examples for the 'user_name' intent using imperative or interrogative syntax. Ask how the system calls you or if it can guess your name. Avoid mentions of lost cards, an order's status, changing your name or system's name, what the interlocutor's name is, and what they can answer. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "user_name"
+        ],
+		[
+            "Generate 50 examples for the 'timezone' intent using imperative or interrogative syntax. Ask what the timezone of a specific place or country is. Avoid mentions of what time it is, cooking time, and updating a reminder. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "timezone"
+        ],
+		[
+            "Generate 50 examples for the 'next_song' intent using imperative or interrogative syntax. Request the next song. Avoid mentions of when the next holiday is, what song is playing, playing music, and what the interlocutor's name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "next_song"
+        ],
+		[
+            "Generate 50 examples for the 'transactions' intent using imperative or interrogative syntax. Request information about your recent transactions. Avoid mentions of international fees, money spending history, and lost cards. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "transactions"
+        ],
+		[
+            "Generate 50 examples for the 'restaurant_suggestion' intent using imperative or interrogative syntax. Ask for a restaurant suggestion. Avoid mentions of restaurant reservations, meal suggestions, travel suggestions, restaurant reviews, phone calls, restaurant wait time, and updating reminders. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "restaurant_suggestion"
+        ],
+		[
+            "Generate 50 examples for the 'rewards_balance' intent using imperative or interrogative syntax. Request information about your rewards points on your card or account or how to check them. Avoid mentions of remaining vacation days, remaining available funds, amount of a bill, redeeming credit card points, transactions, and reporting a fraud. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "rewards_balance"
+        ],
+		[
+            "Generate 50 examples for the 'pay_bill' intent using imperative or interrogative syntax. Request for help to pay a bill, mentioning various kinds of bills. Avoid mentions of a bill balance, the need of a new card, and the minimum payment of a bill. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "pay_bill"
+        ],
+		[
+            "Generate 50 examples for the 'spending_history' intent using imperative or interrogative syntax. Request information about your money spending. Avoid mentions of account's remaining funds, pets, and remaining vacation days. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "spending_history"
+        ],
+		[
+            "Generate 50 examples for the 'pto_request_status' intent using imperative or interrogative syntax. Request the status of your vacation or day off request. Avoid mentions of making a pto request, when next holiday is, used vacation days, flight's or application's or pto request's or order's status. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "pto_request_status"
+        ],
+		[
+            "Generate 50 examples for the 'credit_score' intent using imperative or interrogative syntax. Request your current credit score, without mentioning ways of improving it. Avoid mentions of credit limit change, what is a card's credit limit, improving credit score, current location, and money spending history. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "credit_score"
+        ],
+		[
+            "Generate 50 examples for the 'new_card' intent using imperative or interrogative syntax. Request to apply for a new card, mentioning various kinds of cards. Avoid mentions of lost cards, replacement card duration, declined cards, paying a bill, damaged cards, and a card's credit limit. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "new_card"
+        ],
+		[
+            "Generate 50 examples for the 'lost_luggage' intent using imperative or interrogative syntax. Report the loss of your luggage or request help in locating it. Avoid mentions of lost cards, pin change, pto request's status, and improving credit score. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "lost_luggage"
+        ],
+		[
+            "Generate 50 examples for the 'repeat' intent using imperative or interrogative syntax. Request a repeat of your interlocutor's utterance. Avoid mentions of phone calls, whether the interlocutor is a bot, and how old they are. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "repeat"
+        ],
+		[
+            "Generate 50 examples for the 'mpg' intent using imperative or interrogative syntax. Ask about the miles per gallon your car gets. Avoid mentions of gas types, remaining vacation days, and jump start. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "mpg"
+        ],
+		[
+            "Generate 50 examples for the 'oil_change_when' intent using imperative or interrogative syntax. Request the appropriate time of changing the oil of a car, without mentioning any part of the procedure. Avoid mentions of how the oil is changed, tire change, credit limit change, interlocutor's speech pace change, change on system's name, volume change, pin change, insurance change, change on your name, language change, accent change, an application's status, and when was the last maintenace on the car. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "oil_change_when"
+        ],
+		[
+            "Generate 50 examples for the 'yes' intent. Express positivity. Avoid mentions of negative answers, expressing gratitude, and greeting. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "yes"
+        ],
+		[
+            "Generate 50 examples for the 'travel_suggestion' intent using imperative or interrogative syntax. Request destination suggestions, or tourist attractions and activities mentioning a specific city or country. Avoid mentions of restaurant suggestions, meal suggestions, notifying about your travel, travel alerts, hotel booking, car rental, and whether a restaurant accepts reservations. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "travel_suggestion"
+        ],
+		[
+            "Generate 50 examples for the 'insurance' intent using imperative or interrogative syntax. Ask about the kind of insurance you are in or what benefits it includes. Avoid mentions of insurance change, international fees, money spending history, and improving credit score. Use very small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "insurance"
+        ],
+		[
+            "Generate 50 examples for the 'todo_list_update' intent using imperative or interrogative syntax. Request the addition or removal of something from a todo list or the clearance of it. Avoid mentions of ingredients lists, application's status, pin change, and updating a playlist, a shopping list, a reminder, a todo list and a calendar. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "todo_list_update"
+        ],
+		[
+            "Generate 50 examples for the 'reminder' intent using imperative or interrogative syntax. Ask what exists on your reminder list or if something specific exists on it. Avoid mentions of updating a reminder, what your own name is, directions, and how old interlocutor is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "reminder"
+        ],
+		[
+            "Generate 50 examples for the 'change_speed' intent using imperative or interrogative syntax. Ask your interlocutor to speed up their speech, or ask them to slow it down. Avoid mentions of tire change, credit limit change, language change, accent change, tire change, insurance change, volume change, your or system's name change, directions, tire pressure, how or when to change car oil, expressing inability to decide. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "change_speed"
+        ],
+		[
+            "Generate 50 examples for the 'tire_pressure' intent using imperative or interrogative syntax. Request to know about the air pressure in your tires. Avoid mentions of tire change, lost luggage, and sharing your location. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "tire_pressure"
+        ],
+		[
+            "Generate 50 examples for the 'no' intent. Express negativity. Avoid mentions of positive answers, expressions of gratitude, and greeting. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "no"
+        ],
+		[
+            "Generate 50 examples for the 'apr' intent using imperative or interrogative syntax. Request the apr on a specific card. Avoid mentions of card credit limit, expiration dates, and updating a reminder. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "apr"
+        ],
+		[
+            "Generate 50 examples for the 'nutrition_info' intent using imperative or interrogative syntax. Request the nutritional info for a specific food, or its healthiness level, without mentioning specific types of nutrients. Avoid mentions of cooking time, ingredients list, and calories of a food. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "nutrition_info"
+        ],
+		[
+            "Generate 50 examples for the 'calendar' intent using imperative or interrogative syntax. Ask what is scheduled on your calendar on a specific date or period. Avoid mentions of when next holiday is, current date, and updating a calendar. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "calendar"
+        ],
+		[
+            "Generate 50 examples for the 'uber' intent using imperative or interrogative syntax. Request an uber, mentioning the number of people and the place. Avoid mentions of frozen account, what song is playing, and playing the next song. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "uber"
+        ],
+		[
+            "Generate 50 examples for the 'calculator' intent using imperative or interrogative syntax. Request any mathematical operation. Avoid mentions of measurement conversions, current location, and direct deposit setting. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "calculator"
+        ],
+		[
+            "Generate 50 examples for the 'date' intent using imperative or interrogative syntax. Request the date in some days from today or just today's date. Avoid mentions of expiration dates, when the next holiday is, pto requests, and already scheduled meetings. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "date"
+        ],
+		[
+            "Generate 50 examples for the 'carry_on' intent using imperative or interrogative syntax. Request information about the carry on restrictions. Avoid mentions of pets, money spending history, and what the interlocutor's name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "carry_on"
+        ],
+		[
+            "Generate 50 examples for the 'pto_used' intent using imperative or interrogative syntax. Request information about your already used days off. Avoid mentions of a pto request and its status, carry-on restrictions, money spending history and remaining vacation days. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "pto_used"
+        ],
+		[
+            "Generate 50 examples for the 'schedule_maintenance' intent using imperative or interrogative syntax. Request the scheduling of vehicle maintenance or vehicle check-up, mentioning specific issues of your car. Avoid mentions of already scheduled meetings, scheduling a meeting, car rental, gas type, and car's last maintenace. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "schedule_maintenance"
+        ],
+		[
+            "Generate 50 examples for the 'travel_notification' intent using imperative or interrogative syntax. Report your upcomming absence or request a notification to the bank about your absence, mentioning the place and dates of your travel. Avoid mentions of travle alerts, travel suggestions, pin change, pto request's or order's status. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "travel_notification"
+        ],
+		[
+            "Generate 50 examples for the 'sync_device' intent using imperative or interrogative syntax. Request a link or disconnection from your phone. Avoid mentions of smart home commands, updating a calendar, and current location. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "sync_device"
+        ],
+		[
+            "Generate 50 examples for the 'thank_you' intent. Express your gratitude. Avoid mentions of negative answers, positive answers, greeting, pets, whether interlocutor is a bot, who made them, how old they are, what they can answer, where they are from, and who they work for. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "thank_you"
+        ],
+		[
+            "Generate 50 examples for the 'roll_dice' intent using imperative or interrogative syntax. Request the rolling of a dice or a x sided dice. Avoid mentions of canceling a reservation, updating a reminder, and rollover 401k. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "roll_dice"
+        ],
+		[
+            "Generate 50 examples for the 'food_last' intent using imperative or interrogative syntax. Ask how long a product lasts. Avoid mentions of phone calls, bill deadlines, restaurant suggestions, and time of the last car maintenance. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "food_last"
+        ],
+		[
+            "Generate 50 examples for the 'cook_time' intent using imperative or interrogative syntax. Request the cooking time of a specific food. Avoid mentions of what time is, ingredients list, restaurant suggestions, and recipes. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "cook_time"
+        ],
+		[
+            "Generate 50 examples for the 'reminder_update' intent using imperative or interrogative syntax. Ask for the set of a reminder. Avoid mentions of what already exists on your reminder list, the amount of a bill, phone calls, finding a lost phone, and updating todo list or shopping list or playlist or calendar. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "reminder_update"
+        ],
+		[
+            "Generate 50 examples for the 'report_lost_card' intent using imperative or interrogative syntax. Report that your card is lost or stolen. Avoid mentions of replacement card duration, damaged, declined or new cards, lost luggage, reporting a fraud,and where the interlocutor is from. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "report_lost_card"
+        ],
+		[
+            "Generate 50 examples for the 'ingredient_substitution' intent using imperative or interrogative syntax. Request information about the replacement of an ingredient with another. Avoid mentions of frozen accounts, the amount of a bill, and finding a lost phone. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "ingredient_substitution"
+        ],
+		[
+            "Generate 50 examples for the 'make_call' intent using imperative or interrogative syntax. Ask for making a call. Avoid mentions of restaurant suggestions, updating a reminder, or telling a joke. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "make_call"
+        ],
+		[
+            "Generate 50 examples for the 'alarm' intent using imperative or interrogative syntax. Ask for the set of an alarm. Avoid mentions of phone calls, frozen accounts, and updating reminders. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "alarm"
+        ],
+		[
+            "Generate 50 examples for the 'todo_list' intent using imperative or interrogative syntax. Request the items existing on your todo list. Avoid mentions of shopping lists, ingredients list, updating shopping or todo lists, current location, and playing next song. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "todo_list"
+        ],
+		[
+            "Generate 50 examples for the 'change_accent' intent using imperative or interrogative syntax. Request a different accent or voice. Avoid mentions of tire change, volume change, language change, interlocutor's speech pace change, pin change, credit limit change, insurance change, your or system's name change, how or when to change car oil, playing music, phone callsm and restaurant suggestions. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "change_accent"
+        ],
+		[
+            "Generate 50 examples for the 'w2' intent using imperative or interrogative syntax. Request information about where to find the w2. Avoid mentions of directions, pets, and what the interlocutor's name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "w2"
+        ],
+		[
+            "Generate 50 examples for the 'bill_due' intent using imperative or interrogative syntax. Ask when a bill is due. Avoid mentions of phone calls, paying bills, the amount of a bill, and changing your name. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "bill_due"
+        ],
+		[
+            "Generate 50 examples for the 'calories' intent using imperative or interrogative syntax. Request the calories of a food. Avoid mentions of cooking time, ingredients list, and recipes. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "calories"
+        ],
+		[
+            "Generate 50 examples for the 'damaged_card' intent using imperative or interrogative syntax. Report a damaged card, mentioning specific kinds of damage. Avoid mentions of lost or declined or new cards, the amount of a bill, replacement card duration, and what the interlocutor's name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "damaged_card"
+        ],
+		[
+            "Generate 50 examples for the 'restaurant_reviews' intent using imperative or interrogative syntax. Request a restaurant's reviews or ratings. Avoid mentions of restaurant reservations, restaurant suggestions, phone calls, and what the interlocutor's name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "restaurant_reviews"
+        ],
+		[
+            "Generate 50 examples for the 'routing' intent using imperative or interrogative syntax. Request information about your routing number. Avoid mentions of carry-on restrictions, money spending history, and current location. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "routing"
+        ],
+		[
+            "Generate 50 examples for the 'do_you_have_pets' intent using imperative or interrogative syntax. Ask for information about other's pets. Avoid mentions of expressing gratitude, carry-on restrictions, phone calls, whether interlocutor is a bot, who made them, what they can answer, where they are from, who they work for, how old they are, and what their name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "do_you_have_pets"
+        ],
+		[
+            "Generate 50 examples for the 'schedule_meeting' intent using imperative or interrogative syntax. Request the scheduling of a meeting, mentioning participants and time. Avoid mentions of already scheduled meetings, scheduling a car maintenace, updating a reminder, and finding a lost phone. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "schedule_meeting"
+        ],
+		[
+            "Generate 50 examples for the 'gas_type' intent using imperative or interrogative syntax. Ask about the kind of gasoline or fuel required for a car. Avoid mentions of what the gas tank level is, plug type, amount of a bill, jump start, and cooking time. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "gas_type"
+        ],
+		[
+            "Generate 50 examples for the 'plug_type' intent using imperative or interrogative syntax. Request information about plug type variations in other countries, where you may need an adapter or converter, mentioning random countries. Avoid mentions of gas types, transactions, new cards, and whether a restaurant accepts reservations. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "plug_type"
+        ],
+		[
+            "Generate 50 examples for the 'tire_change' intent using imperative or interrogative syntax. Ask when to change the tires. Avoid mentions of tire pressure, accent change, language change, volume change, interlocutor's speech pace change, pin change, your or system's name change, insurance change, credit limit change, how or when to change car oil, playing next song, who created the system. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "tire_change"
+        ],
+		[
+            "Generate 50 examples for the 'exchange_rate' intent using imperative or interrogative syntax. Ask about exchange rate. Avoid mentions of direct deposit setting, the amount of interest rate, and what the interlocutor's name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "exchange_rate"
+        ],
+		[
+            "Generate 50 examples for the 'next_holiday' intent using imperative or interrogative syntax. Ask when the next holiday or free day is. Avoid mentions of bill deadlines, playing next song, pto request status, and restaurant wait list. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "next_holiday"
+        ],
+		[
+            "Generate 50 examples for the 'change_volume' intent using imperative or interrogative syntax. Request the volume to be increased or turned down. Avoid mentions of credit limit change, accent change, language change, interlocutor's speech pace change, insurance change, pin change, change on your own or system's name, tire change, bill deadline, how and when to change car oil, and order checkbooks. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "change_volume"
+        ],
+		[
+            "Generate 50 examples for the 'who_do_you_work_for' intent using imperative or interrogative syntax. Ask to know whom the chatbot works for. Avoid mentions of whether the interlocutor is a bot, what they can answer, how old they are, where they are from, who created them, what their name is, expressing gratitude, pets, and playing next song. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "who_do_you_work_for"
+        ],
+		[
+            "Generate 50 examples for the 'credit_limit' intent using imperative or interrogative syntax. Ask for the credit limit of a card. Avoid mentions of the amount of a bill, updating a reminder, your current credit score and how to improve it, and changing credit limit. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "credit_limit"
+        ],
+		[
+            "Generate 50 examples for the 'how_busy' intent using imperative or interrogative syntax. Ask for the wait time at a restaurant. Avoid mentions of phone calls, updating a reminder, how to change car oil, restaurant suggestions, and how old the interlocutor is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "how_busy"
+        ],
+		[
+            "Generate 50 examples for the 'accept_reservations' intent using imperative or interrogative syntax. Ask if specific restaurants take reservations, without making one. Avoid mentions of pets, phone calls, and restaurant suggestions. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "accept_reservations"
+        ],
+		[
+            "Generate 50 examples for the 'order_status' intent using imperative or interrogative syntax. Ask about your order's status or where your package is. Avoid mentions of ordering or buying something, ordering checkbooks, flight's or application's or pto request's status, and where the interlocutor is from. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "order_status"
+        ],
+		[
+            "Generate 50 examples for the 'pin_change' intent using imperative or interrogative syntax. Report the loss or forgetting of your pin, or request a change of it. Avoid mentions of tire change, accent change, language change, volume change, insurance change, your or system's name change, credit limit change, interlocutor's speech pace change, how or when to change the oil car, lost luggage, pto request's status, and meaning of life. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "pin_change"
+        ],
+		[
+            "Generate 50 examples for the 'goodbye' intent. Express the intention to bid farewell or kindly request the ending of a conversation. Avoid mentions of greetings, expressing gratitude, and insurance change. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "goodbye"
+        ],
+		[
+            "Generate 50 examples for the 'account_blocked' intent using imperative or interrogative syntax. Request the reason for your blocked, locked or frozen account, including any hold on. Avoid mentions of frozen accounts, meaning of life, improving credit score, and pto request's status. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "account_blocked"
+        ],
+		[
+            "Generate 50 examples for the 'what_song' intent using imperative or interrogative syntax. Request the name of the song playing. Avoid mentions of playing next song, frozen accounts, hobbies, what interlocutor can answer, and what their name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "what_song"
+        ],
+		[
+            "Generate 50 examples for the 'international_fees' intent using imperative or interrogative syntax. Ask about potential international transaction fees to your card, when you are in another country. Avoid mentions of international visa, transactions, lost card, and improving credit score. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "international_fees"
+        ],
+		[
+            "Generate 50 examples for the 'last_maintenance' intent using imperative or interrogative syntax. Request the time of the last maintenace, service or check on the car, mentioning specific types of check. Avoid mentions of scheduling a car maintenace, how much a food lasts, how and when to change car oil, and restaurant reservations. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "last_maintenance"
+        ],
+		[
+            "Generate 50 examples for the 'meeting_schedule' intent using imperative or interrogative syntax. Ask about already scheduled meetings, mentioning participants and time. Avoid mentions of scheduling a meeting or a car maintenace, carry-on restrictions, and what the interlocutor's name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "meeting_schedule"
+        ],
+		[
+            "Generate 50 examples for the 'ingredients_list' intent using imperative or interrogative syntax. Request the ingredients needed for the making of a specific dish. Avoid mentions of cooking time, amount of a bill, updating a reminder or a shopping list or a todo list. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "ingredients_list"
+        ],
+		[
+            "Generate 50 examples for the 'report_fraud' intent using imperative or interrogative syntax. Report a fraudulent activity on your account or card. Avoid mentions of credit limit, an expiration date, and reporting a lost card. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "report_fraud"
+        ],
+		[
+            "Generate 50 examples for the 'measurement_conversion' intent using imperative or interrogative syntax. Avoid mentions of phone calls, restaurant suggestions, and updating a reminder. Ask for a measurement conversion. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "measurement_conversion"
+        ],
+		[
+            "Generate 50 examples for the 'smart_home' intent using imperative or interrogative syntax. Request anything from a smart home. Avoid mentions of phone calls, telling a joke, and restaurant suggestions. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "smart_home"
+        ],
+		[
+            "Generate 50 examples for the 'book_hotel' intent using imperative or interrogative syntax. Request a hotel reservation mentioning random hotels, dates and visitors. Avoid mentions of flight booking, car rental, and whether a restaurant accepts reservations. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "book_hotel"
+        ],
+		[
+            "Generate 50 examples for the 'current_location' intent using imperative or interrogative syntax. Request your current location. Avoid mentions of sharing your location, frozen accounts, playing next song, and what the interlocutor's name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "current_location"
+        ],
+		[
+            "Generate 50 examples for the 'weather' intent using imperative or interrogative syntax. Ask about the weather forecast, mentioning random places. Avoid mentions of current traffic, flight booking, and current location. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "weather"
+        ],
+		[
+            "Generate 50 examples for the 'taxes' intent using imperative or interrogative syntax. Request information about the amount of taxes. Avoid mentions of minimum bill payments, carry-on restrictions, and money spending history. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "taxes"
+        ],
+		[
+            "Generate 50 examples for the 'min_payment' intent using imperative or interrogative syntax. Request information about the minimum bill payments. Avoid mentions of taxes, amount of a bill, and card credit limit. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "min_payment"
+        ],
+		[
+            "Generate 50 examples for the 'whisper_mode' intent using imperative or interrogative syntax. Request a whisper mode toggle. Avoid mentions of current location, reseting settings, and whether interlocutor is a bot. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "whisper_mode"
+        ],
+		[
+            "Generate 50 examples for the 'cancel' intent using imperative or interrogative syntax. Ask for a cancelation using various verbs. Avoid mentions of phone calls, canceling reservations, and measurement conversions. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "cancel"
+        ],
+		[
+            "Generate 50 examples for the 'international_visa' intent using imperative or interrogative syntax. Request information about the requirement for an international visa when visiting a specific country. Avoid mentions of international_fees, pto requests, carry-on restrictions, and minimum bill payments. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "international_visa"
+        ],
+		[
+            "Generate 50 examples for the 'vaccines' intent using imperative or interrogative syntax. Request information about the vaccination shots needed to go somewhere. Avoid mentions of directions, carry-on restrictions, and used vacation days. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "vaccines"
+        ],
+		[
+            "Generate 50 examples for the 'pto_balance' intent using imperative or interrogative syntax. Ask about your remaining vacation days. Avoid mentions of rewards points, remaining available funds, amount of a bill, pto request, used vacation days, pto request's status, money spending history, and current location. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "pto_balance"
+        ],
+		[
+            "Generate 50 examples for the 'directions' intent using imperative or interrogative syntax. Ask how to go somewhere. Avoid mentions of sharing current location, where you currently are, and who the interlocutor works for. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "directions"
+        ],
+		[
+            "Generate 50 examples for the 'spelling' intent using imperative or interrogative syntax. Ask for the spelling of a specific word. Avoid mentions of playing next song, phone calls, and restaurant suggestions. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "spelling"
+        ],
+		[
+            "Generate 50 examples for the 'greeting' intent. Express a greeting. Avoid mentions of negative answers, positive answers, and expressing gratitude. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "greeting"
+        ],
+		[
+            "Generate 50 examples for the 'reset_settings' intent using imperative or interrogative syntax. Request the reset to original or factory settings. Avoid mentions of tire change, current location, and playing next song. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "reset_settings"
+        ],
+		[
+            "Generate 50 examples for the 'what_is_your_name' intent using imperative or interrogative syntax. Ask about other's name. Avoid mentions of changing your or system's name, what song is playing, pets, hobbies, playing next song, what interlocutor can answer, and where they are from. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "what_is_your_name"
+        ],
+		[
+            "Generate 50 examples for the 'direct_deposit' intent using imperative or interrogative syntax. Request direct deposit setting. Avoid mentions of current location, phone calls, and frozen accounts. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "direct_deposit"
+        ],
+		[
+            "Generate 50 examples for the 'interest_rate' intent using imperative or interrogative syntax. Request the interest rate for your account. Avoid mentions of exchange rate, current location, and credit limit change. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "interest_rate"
+        ],
+		[
+            "Generate 50 examples for the 'credit_limit_change' intent using imperative or interrogative syntax. Request an increase in the credit limit. Avoid mentions of current credit score, tire change, accent change, language change, interlocutor's speech pace change, system's name change, change on your name, pin change, volume change, insurance change, frozen accounts, amount of a bill, what is the credit limit of a card, how and when to change car oil, and how to improve a credit score. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "credit_limit_change"
+        ],
+		[
+            "Generate 50 examples for the 'what_are_your_hobbies' intent using imperative or interrogative syntax. Request information about your interlocutor's hobbies. Avoid mentions of whether interlocutor is a bot, what their name is, what they can answer, where they are from, how old they are, pets, money spending history, and what song is playing. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "what_are_your_hobbies"
+        ],
+		[
+            "Generate 50 examples for the 'book_flight' intent using imperative or interrogative syntax. Ask for a flight booking, mentioning random places and dates. Avoid mentions of flight status, hotel booking, phone calls, and car rental. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "book_flight"
+        ],
+		[
+            "Generate 50 examples for the 'shopping_list' intent using imperative or interrogative syntax. Request the items in your shopping list. Avoid mentions of current location, playing next song, ingredients list, and updating shopping and todo lists. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "shopping_list"
+        ],
+		[
+            "Generate 50 examples for the 'text' intent using imperative or interrogative syntax. Request a text or message to be sent to someone. Avoid mentions of directions, changing your name, and who made the system. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "text"
+        ],
+		[
+            "Generate 50 examples for the 'bill_balance' intent using imperative or interrogative syntax. Ask for the amount of a bill. Avoid mentions of remaining vacation days, account's remaining funds, paying a bill, card's rewards points, updating a reminder, bill deadline, and minimum bill payment. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "bill_balance"
+        ],
+		[
+            "Generate 50 examples for the 'share_location' intent using imperative or interrogative syntax. Request to share where your are with others. Avoid mentions of directions, where you currently are, who your interlocutor works for, and what their name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "share_location"
+        ],
+		[
+            "Generate 50 examples for the 'redeem_rewards' intent using imperative or interrogative syntax. Request information about redeeming your credit card points. Avoid mentions of card rewards points, money spending history, lost cards, and expiration dates. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "redeem_rewards"
+        ],
+		[
+            "Generate 50 examples for the 'play_music' intent using imperative or interrogative syntax. Request music listening. Avoid mentions of playing next song, current location, and what the interlocutor's name is. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "play_music"
+        ],
+		[
+            "Generate 50 examples for the 'calendar_update' intent using imperative or interrogative syntax. Request an addition or removal from your calendar. Avoid mentions of current locations, calendars, frozen accounts, ordering checkbooks, updating a reminder or a shopping list or playlist or a todo list. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "calendar_update"
+        ],
+		[
+            "Generate 50 examples for the 'are_you_a_bot' intent using imperative or interrogative syntax. Ask if the interlocutor is a robot. Avoid mentions of hobbies, what your interlocutor can answer, where they are from, who they work for, how old they are, who made the system, pets, phone calls, expressing gratitude, and bill deadlines. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "are_you_a_bot"
+        ],
+		[
+            "Generate 50 examples for the 'gas' intent using imperative or interrogative syntax. Request the gas tank level. Avoid mentions of gas type, frozen accounts, and direct deposit setting. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "gas"
+        ],
+		[
+            "Generate 50 examples for the 'expiration_date' intent using imperative or interrogative syntax. Ask about card's expiration. Avoid mentions of what the interlocutor's name is, credit limit of a card, a declined card, and today's or other day's date. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "expiration_date"
+        ],
+		[
+            "Generate 50 examples for the 'update_playlist' intent using imperative or interrogative syntax. Request the addition of a specific song to a specific playlist, mentioning random songs and playlists. Avoid mentions of what song is playing, playing next song or music, and updating a shopping list or a todo list or a reminder or a calendar. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "update_playlist"
+        ],
+		[
+            "Generate 50 examples for the 'cancel_reservation' intent using imperative or interrogative syntax. Request a cancelation of a reservation. Avoid mentions of restaurant reservation, confirming a reservation, canceling system's operations, updating a reminder, phone calls, and restaurant suggestions. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "cancel_reservation"
+        ],
+		[
+            "Generate 50 examples for the 'tell_joke' intent using imperative or interrogative syntax. Ask for a funny joke. Avoid mentions of phone calls, restaurant suggestions, and smart home commands. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "tell_joke"
+        ],
+		[
+            "Generate 50 examples for the 'change_ai_name' intent using imperative or interrogative syntax. Request to change your interlocutor's name, mentioning random names. Avoid mentions of tire change, credit limit change, accent change, interlocutor's speech pace change, insurance change, language change, volume change, pin change, change on your name, how or when to change car oil, what is your own name, where interlocutor is from, what their name is, current location. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "change_ai_name"
+        ],
+		[
+            "Generate 50 examples for the 'how_old_are_you' intent using imperative or interrogative syntax. Ask how old your interlocutor is. Avoid mentions of expressing gratitude, current location, hobbies, pets, restaurant wait list, whether the interlocutor is a bot, who made them, what they can answer, who they work for, where they are from, and how to change car oil. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "how_old_are_you"
+        ],
+		[
+            "Generate 50 examples for the 'car_rental' intent using imperative or interrogative syntax. Request a car rental, mentioning random dates or places. Avoid mentions of flight bookings, hotel bookings, and confirming a reservation. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "car_rental"
+        ],
+		[
+            "Generate 50 examples for the 'jump_start' intent using imperative or interrogative syntax. Ask how to jump start a dead car battery. Avoid mentions of smart home commands, tire change, and phone calls. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "jump_start"
+        ],
+		[
+            "Generate 50 examples for the 'meal_suggestion' intent using imperative or interrogative syntax. Request a meal suggestion, mentioning random cuisines. Avoid mentions of travel suggestions, restaurant suggestions, cooking time, and phone calls. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "meal_suggestion"
+        ],
+		[
+            "Generate 50 examples for the 'recipe' intent using imperative or interrogative syntax. Request a recipe or the way of cooking a specific food. Avoid mentions of cooking time, ingredients list, and restaurant suggestions. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "recipe"
+        ],
+		[
+            "Generate 50 examples for the 'income' intent using imperative or interrogative syntax. Request your income. Avoid mentions of interest rate, money spending history, and current location. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "income"
+        ],
+		[
+            "Generate 50 examples for the 'order' intent using imperative or interrogative syntax. Request the purchase or order of something. Avoid mentions of ordering checkbooks, order's status, frozen accounts, and application's status. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "order"
+        ],
+		[
+            "Generate 50 examples for the 'traffic' intent using imperative or interrogative syntax. Request information about traffic, mentioning specific places and time. Avoid mentions of carry-on restrictions, pets, and money spending history. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "traffic"
+        ],
+		[
+            "Generate 50 examples for the 'order_checks' intent using imperative or interrogative syntax. Request an order of new or more checkbooks. Avoid mentions of frozen accounts, an order and its status, and updating calendars. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "order_checks"
+        ],
+		[
+            "Generate 50 examples for the 'card_declined' intent using imperative or interrogative syntax. Request the reason why your card was declined. Avoid mentions of replacement card duration, an expiration date, who the interlocutor works for, and new or damaged or lost cards. Use small and simple phrases. Ensure a diverse range of ways to express this intent by varying the structure and phrasing of the examples.",
+            "card_declined"
+        ]
+	]
+}
+		
+		
+		
+		
+
+		
+		
